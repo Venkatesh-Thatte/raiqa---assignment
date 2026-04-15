@@ -1,6 +1,6 @@
 # Home Chef Meals
 
-A simple meal browsing and selection app built with Next.js.
+Meal browsing and selection app built with Next.js and React. Features availability filtering, sort by price, and a live order total.
 
 ## Features
 - Browse meals from home chefs with name, price, and availability
