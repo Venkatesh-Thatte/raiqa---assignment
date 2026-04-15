@@ -22,4 +22,4 @@ npm install
 npm run dev
 
 ## Live Demo
-[View on Vercel](https://your-app.vercel.app)
+https://raiqa-assignment-one.vercel.app/
